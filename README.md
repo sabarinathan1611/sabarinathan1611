@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sabarinathan</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on [PasswordManager](https://github.com/sabarinathan1611/PasswordManager)
 
 - 🌱 I’m currently learning **React, FastAPI**
 
