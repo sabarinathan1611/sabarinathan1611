@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on [PasswordManager](https://github.com/sabarinathan1611/PasswordManager)
-
 - 💬 Ask me about **Flask, Python, Server, Security**
 
 - 📫 How to reach me **vsabarinathan1611@gmail.com**
