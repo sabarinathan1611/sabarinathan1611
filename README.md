@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **vsabarinathan1611@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1widix3UlGJql2FfJo1wotrutsoZWqXzq/view?usp=sharing)
-
 - ⚡ Fun fact **Be Open Source**
 
 <h3 align="left">Connect with me:</h3>
